@@ -14,7 +14,7 @@ The Oxford.Speech.JS sample demonstrates how to use the Microsoft Bing Speech AP
  * Short-form recognition
 
 ### Build the Sample
- 1. First, you must obtain a Bing Speech API subscription key by [following the instructions on our webiste](<https://www.microsoft.com/cognitive-services/en-us/sign-up>).
+ 1. First, you must obtain a Bing Speech API subscription key by [following the instructions on our website](<https://www.microsoft.com/cognitive-services/en-us/sign-up>).
 
  2. Start Visual Studio and choose the menu "File", "Open", "Project/Solution" the workspace file Speech \> Speech.JS \> Oxford.Speech.JS.sln.
  
